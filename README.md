@@ -28,13 +28,14 @@ Welcome to my frontend learning journey! This repository contains a collection o
 1. Clone this repository:
      ```bash
      git clone https://github.com/your-username/frontend.git
-2. Navigate into one of the folders:<br>
+2. Navigate into one of the folders:
+   ```bash
     cd frontend/DynamicWeb <br>
     **or** <br>
     cd frontend/StaticWeb<br>
     **or**<br>
     cd frontend/HTML(only)
-3. Open the project:
+4. Open the project:
     For DynamicWeb and StaticWeb, open index.html in your browser.
     For HTML(only), open any .html file directly in your browser.
 
