@@ -28,7 +28,7 @@ Welcome to my frontend learning journey! This repository contains a collection o
 1. Clone this repository:
      ```bash
      git clone https://github.com/your-username/frontend.git
-2. Navigate into one of the folders:
+2. Navigate into one of the folders:<br>
     cd frontend/DynamicWeb <br>
     **or** <br>
     cd frontend/StaticWeb<br>
