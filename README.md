@@ -42,8 +42,8 @@ Welcome to my frontend learning journey! This repository contains a collection o
     cd frontend/HTML(only)
    ```
 4. Open the project:
-    For DynamicWeb and StaticWeb, open index.html in your browser.
-    For HTML(only), open any .html file directly in your browser.
+   - For DynamicWeb and StaticWeb, open index.html in your browser.
+   - For HTML(only), open any .html file directly in your browser.
 
 
 
