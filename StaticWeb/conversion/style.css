@@ -1,0 +1,19 @@
+html{
+    margin:10px;
+} 
+#home{
+    margin: -1px -1px -1px;
+    padding-bottom: 1cm;
+    background-color: blue magenta;
+}
+header{
+    font-size: 30px; 
+    color:light purple;
+    float: left;
+    padding: 2cm; 
+}
+nav{
+    float:right;
+    padding:1cm; 
+}
+
