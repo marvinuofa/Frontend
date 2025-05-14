@@ -11,6 +11,8 @@ function km_to_miles(){
 
     miles.value = km.value * 0.62137;
 
+    fahrenheit.value = (cel.value* 9/5) + 32;
+   
 }
 
 function kg_to_lbs(){
